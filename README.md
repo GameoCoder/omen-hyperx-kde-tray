@@ -53,10 +53,10 @@ Clone the repo and run the main script:
 ```bash
 git clone https://github.com/gameocoder/omen-hyperx-kde-tray.git
 cd omen-hyperx-kde-tray
-python3 fan_control.py
+python3 main.py
 ```
 
-*(Tip: Add `fan_control.py` to your KDE Autostart settings so it launches on boot!)*
+*(Tip: Add `main.py` to your KDE Autostart settings so it launches on boot!)*
 
 ## Credits & Acknowledgments
 
